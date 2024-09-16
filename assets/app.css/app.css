@@ -1,0 +1,38 @@
+body {
+    background-color: blueviolet;
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.profileimage {
+    width: 200px;
+}
+.profile h1 {
+    color: white;
+}
+.profile h4 {
+    color: white;
+    transform: translateY(-10px);
+}
+.BIODATA {
+    padding-top: 55px;
+    background-color: #fff;
+}
+.achievement {
+    padding-top: 55px;
+}
+.footer {
+    background-color: #fff;
+    padding-bottom: 20px;
+}
+.contact a {
+    font-size: 20px;
+    color: black;
+}
+.watermark {
+    padding-top: 30px;
+}
